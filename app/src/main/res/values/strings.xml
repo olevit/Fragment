@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="red">Рижик</string>
+    <string name="Barsik">Барсик</string>
+    <string name="Mursik">Мурзик</string>
+    <string name="description_cat">Описання кота</string>
+</resources>
